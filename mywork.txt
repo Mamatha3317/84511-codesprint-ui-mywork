@@ -1,0 +1,14 @@
+My associate id:
+845115
+Other team members:
+845063,845089, 845092
+Team lead:
+845089
+My Role in team:
+1. To develop place gift page and view order page
+My development files:
+1. placegift.html
+2. vieworder.html
+I was strong in:
+1.HTML
+2.Validations
